@@ -1,2 +1,4 @@
 Line Added From Remote GitHub
 Line Added From Terminal From User Local Repository
+
+Line Added From Smart Git
